@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: pp print
+# key: pprint
+# contributor : @hieunmc$1e
+# --
+pp.Println("$0")
